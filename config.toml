@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = /-
 languageCode = "en-us"
 title = "Infinity Comming Soon Template By Themefisher"
 theme = "infinity-hugo"
